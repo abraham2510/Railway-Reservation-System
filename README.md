@@ -75,8 +75,3 @@ This is a **RESTful API-based Railway Reservation System** built with **Java** a
 - Maven
 - MySQL (or H2)
 
-### 📦 Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
